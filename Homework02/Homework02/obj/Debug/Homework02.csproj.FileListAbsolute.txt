@@ -1,0 +1,10 @@
+C:\Users\2\source\repos\Homework02\Homework02\bin\Debug\Homework02.exe.config
+C:\Users\2\source\repos\Homework02\Homework02\bin\Debug\Homework02.exe
+C:\Users\2\source\repos\Homework02\Homework02\bin\Debug\Homework02.pdb
+C:\Users\2\source\repos\Homework02\Homework02\bin\Debug\Dapper.dll
+C:\Users\2\source\repos\Homework02\Homework02\bin\Debug\Dapper.xml
+C:\Users\2\source\repos\Homework02\Homework02\obj\Debug\Homework02.csprojAssemblyReference.cache
+C:\Users\2\source\repos\Homework02\Homework02\obj\Debug\Homework02.csproj.CoreCompileInputs.cache
+C:\Users\2\source\repos\Homework02\Homework02\obj\Debug\Homework02.csproj.CopyComplete
+C:\Users\2\source\repos\Homework02\Homework02\obj\Debug\Homework02.exe
+C:\Users\2\source\repos\Homework02\Homework02\obj\Debug\Homework02.pdb
